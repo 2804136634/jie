@@ -1,2 +1,4 @@
 # jie
 jienu
+qingjiaowojienu
+woshinidegou
